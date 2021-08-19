@@ -102,11 +102,11 @@ export const navigations = [
               // icon: "account_balance",
               path: "/account",
             },
-            {
-              name: "DASHBOARD",
-              // icon: "account_balance",
-              path: "/dashboard",
-            }
+            // {
+            //   name: "DASHBOARD",
+            //   // icon: "account_balance",
+            //   path: "/dashboard",
+            // }
           ]
 
         },
